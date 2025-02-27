@@ -1,0 +1,9 @@
+2025-02-22 15:32:39 - INFO - Script elindult.
+2025-02-22 15:32:39 - INFO - Adatok beolvasása stdin-ből.
+2025-02-22 15:32:39 - INFO - RPKM számítás elkezdődött...
+2025-02-22 15:32:39 - INFO - RPKM számítás befejeződött.
+2025-02-22 15:32:39 - INFO - TPM számítás elkezdődött...
+2025-02-22 15:32:39 - INFO - TPM számítás sikeresen befejeződött.
+2025-02-22 15:32:42 - INFO - Sűrűségfüggvények ábrázolása befejeződött.
+2025-02-22 15:32:42 - INFO - Grafikonok elmentve ide: ./20221124_skill_survey__rscript/data/20250222_1532//skill_survey__abundance_distribution_20250222_1532_1SM.pdf
+2025-02-22 15:32:42 - INFO - Script sikeresen lefutott.
